@@ -47,11 +47,4 @@ The required model is `deepseek-v4-flash-vision-exp`, the vision-capable
 DeepSeek Flash model. JPEG, PNG, GIF, and WebP inputs are accepted by the
 homework runner.
 
-## TA use
 
-Keep `solution.py` out of the student release. No private-test dataset is
-included yet. After setting a real API key, run the reference solution with:
-
-```bash
-python3 solution.py --image-folder public_test
-```
