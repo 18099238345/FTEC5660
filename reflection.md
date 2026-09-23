@@ -15,10 +15,11 @@ credible evaluation and accountability is becoming more urgent.
 Before reading about these developments, I mainly thought of an AI career in
 terms of building models or applications with higher accuracy and more useful
 features. I now see that deployment quality depends on much more than model
-performance. In business and FinTech, an AI system can affect financial
-decisions, customer data, compliance, and public trust. A technically impressive
-agent is not valuable if its decisions cannot be tested, monitored, explained,
-and challenged. Anthropic's embedded-evaluation proposal therefore made AI
+performance. Having studied Financial Technology at both undergraduate and
+postgraduate levels, I am particularly interested in how AI can affect financial
+decisions, customer data, regulatory compliance, and public trust. A technically
+impressive agent is not valuable if its decisions cannot be tested, monitored,
+explained, and challenged. Anthropic's embedded-evaluation proposal made AI
 assurance feel like a core engineering function rather than an external check
 performed after a product is finished. Google's examples also reminded me that
 domain knowledge matters: meaningful impact comes from understanding the people,
@@ -32,10 +33,11 @@ to treat testing as part of system design by creating measurable success
 criteria, checking outputs on unseen data, documenting failure cases, and
 keeping humans responsible for consequential decisions. In the longer term, I
 would like to work at the intersection of AI engineering and responsible
-deployment, especially in a regulated field such as financial services. My goal
-is no longer only to make AI capable of completing a task; it is to make the
-result reliable enough that users and organizations have good reasons to trust
-it.
+deployment, especially in financial services, where my undergraduate and
+postgraduate training in Financial Technology gives me a relevant foundation.
+My goal is no longer only to make AI capable of completing a task; it is to make
+the result reliable enough that users and organizations have good reasons to
+trust it.
 
 Sources:
 
